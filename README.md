@@ -38,7 +38,7 @@ The primary motive of this project is to simplify the process of evaluating car 
 
 ---
 ## **📁Project Structure**:
-![image](https://github.com/user-attachments/assets/0a60fdb9-782f-4403-82af-1c49d849754e)
+![image](https://github.com/user-attachments/assets/14574675-92c1-40fc-8322-741860f3031d)
 
 - app.py: Contains the Streamlit application code.
 
@@ -51,7 +51,7 @@ The primary motive of this project is to simplify the process of evaluating car 
 - requirements.txt: Dependencies needed for running the application.
 
 ## **Example Prediction**:
-
+![image](https://github.com/user-attachments/assets/1ac502cf-529f-4e40-81c4-05009bc82e69)
 ---
 
 ## 📚 **How to Run the Project**
