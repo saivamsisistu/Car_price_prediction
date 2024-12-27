@@ -59,7 +59,7 @@ The primary motive of this project is to simplify the process of evaluating car 
 1. Clone the Repository:
 
 ```bash
-   git clone https://github.com/yourusername/TATA-GROUPS-DASHBOARD.git
+   git clone https://github.com/yourusername/Car_price_prediction.git
 ```
 2. Install Dependencies:
 ```bash
